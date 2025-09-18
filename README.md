@@ -6,5 +6,6 @@ Einkaufsliste
 -Eier
 -Milch
 -Mehl
--Sahne
--Schokoglasur
+-Schokostreusel
+-Erdbeermarmelade
+-Butter
